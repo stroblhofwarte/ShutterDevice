@@ -19,9 +19,11 @@ On Debian/Ubuntu:
 	
 	git clone --depth=1 https://github.com/indilib/indi-3rdparty
 	
-	cd indi-3rdparty
+	git clone https://github.com/stroblhofwarte/ShutterDevice.git
+	
+	mv ShutterDevice/indi-arduinoshutter indi-3rdparty
 
-	git clone https://......
+	cd indi-3rdparty
 
 	mkdir -p ~/Projects/build/indi-arduinofw
 
