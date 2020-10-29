@@ -3,3 +3,7 @@ This cap is controlled as filterwheel with two positions (open,close) via an IND
 
 This repo contains the sources for the INDI Filter Wheel driver and the WEMOS D1 mini firmware 
 controling the small servo to close and open the cap.
+
+The STL files are prefixed with "ETX70" but are also useable for other telescopes. 
+"ETX-70 Klappe.stl" must be changed or replaced to fit other telescopes. "ETX-70 GP.stl" fits a GP
+style dovetail.
