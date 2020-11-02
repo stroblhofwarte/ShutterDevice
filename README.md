@@ -8,5 +8,8 @@ The STL files are prefixed with "ETX70" but are also useable for other telescope
 "ETX-70 Klappe.stl" must be changed or replaced to fit other telescopes. "ETX-70 GP.stl" fits a GP
 style dovetail.
 
+A ASCOM driver install package is under ASCOM. This install package is for x64 only.
+The ACOM driver was build with Visual Studio Community 2019.
+
 For more information please visit https://astro.stroblhof-oberrohrbach.de/2020/10/29/kleine-projekte-fuer-schlechtes-wetter/ 
 (german only)
