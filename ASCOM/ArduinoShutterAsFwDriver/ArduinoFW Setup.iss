@@ -5,13 +5,13 @@
 [Setup]
 AppID={{a306fb8e-c208-4e60-89bf-adfd6e89cd13}
 AppName=ASCOM ArduinoFW FilterWheel Driver
-AppVerName=ASCOM ArduinoFW FilterWheel Driver 1.0.0
-AppVersion=1.0.0
+AppVerName=ASCOM ArduinoFW FilterWheel Driver 1.0.1
+AppVersion=1.0.1
 AppPublisher=Othmar Ehrhardt <othmar.ehrhardt@t-online.de>
 AppPublisherURL=mailto:othmar.ehrhardt@t-online.de
 AppSupportURL=https://ascomtalk.groups.io/g/Help
 AppUpdatesURL=https://ascom-standards.org/
-VersionInfoVersion=1.0.0
+VersionInfoVersion=1.0.1
 MinVersion=6.1.7601
 DefaultDirName="{cf}\ASCOM\FilterWheel"
 DisableDirPage=yes
